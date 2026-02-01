@@ -34,9 +34,4 @@ This project demonstrates an end-to-end CI/CD pipeline that automates applicatio
 - CI/CD best practices
 - Linux server management
 
-## 🧠 Interview Questions You Can Answer
-- What is CI/CD?
-- How Jenkins pipeline works?
-- Why Docker is used?
-- How do you rollback deployment?
 
